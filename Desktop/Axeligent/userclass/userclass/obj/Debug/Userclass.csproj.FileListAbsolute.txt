@@ -1,0 +1,6 @@
+C:\Users\K R V\Desktop\Axeligent\Userclass\Userclass\obj\Debug\Userclass.csprojAssemblyReference.cache
+C:\Users\K R V\Desktop\Axeligent\Userclass\Userclass\obj\Debug\Userclass.csproj.CoreCompileInputs.cache
+C:\Users\K R V\Desktop\Axeligent\Userclass\Userclass\bin\Debug\Userclass.exe
+C:\Users\K R V\Desktop\Axeligent\Userclass\Userclass\bin\Debug\Userclass.pdb
+C:\Users\K R V\Desktop\Axeligent\Userclass\Userclass\obj\Debug\Userclass.exe
+C:\Users\K R V\Desktop\Axeligent\Userclass\Userclass\obj\Debug\Userclass.pdb
