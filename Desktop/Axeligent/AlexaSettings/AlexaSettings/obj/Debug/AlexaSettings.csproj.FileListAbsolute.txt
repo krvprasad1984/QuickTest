@@ -1,0 +1,6 @@
+C:\Users\K R V\Desktop\Axeligent\AlexaSettings\AlexaSettings\bin\Debug\AlexaSettings.exe
+C:\Users\K R V\Desktop\Axeligent\AlexaSettings\AlexaSettings\bin\Debug\AlexaSettings.pdb
+C:\Users\K R V\Desktop\Axeligent\AlexaSettings\AlexaSettings\obj\Debug\AlexaSettings.csprojAssemblyReference.cache
+C:\Users\K R V\Desktop\Axeligent\AlexaSettings\AlexaSettings\obj\Debug\AlexaSettings.csproj.CoreCompileInputs.cache
+C:\Users\K R V\Desktop\Axeligent\AlexaSettings\AlexaSettings\obj\Debug\AlexaSettings.exe
+C:\Users\K R V\Desktop\Axeligent\AlexaSettings\AlexaSettings\obj\Debug\AlexaSettings.pdb
