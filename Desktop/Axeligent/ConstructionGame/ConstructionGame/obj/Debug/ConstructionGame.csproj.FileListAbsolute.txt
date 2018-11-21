@@ -1,0 +1,6 @@
+C:\Users\K R V\Desktop\Axeligent\ConstructionGame\ConstructionGame\obj\Debug\ConstructionGame.csprojAssemblyReference.cache
+C:\Users\K R V\Desktop\Axeligent\ConstructionGame\ConstructionGame\obj\Debug\ConstructionGame.csproj.CoreCompileInputs.cache
+C:\Users\K R V\Desktop\Axeligent\ConstructionGame\ConstructionGame\bin\Debug\ConstructionGame.exe
+C:\Users\K R V\Desktop\Axeligent\ConstructionGame\ConstructionGame\bin\Debug\ConstructionGame.pdb
+C:\Users\K R V\Desktop\Axeligent\ConstructionGame\ConstructionGame\obj\Debug\ConstructionGame.exe
+C:\Users\K R V\Desktop\Axeligent\ConstructionGame\ConstructionGame\obj\Debug\ConstructionGame.pdb
