@@ -1,0 +1,6 @@
+C:\Users\K R V\Desktop\Axeligent\Biggest_Neighbor\Biggest_Neighbor\bin\Debug\Biggest_Neighbor.exe
+C:\Users\K R V\Desktop\Axeligent\Biggest_Neighbor\Biggest_Neighbor\bin\Debug\Biggest_Neighbor.pdb
+C:\Users\K R V\Desktop\Axeligent\Biggest_Neighbor\Biggest_Neighbor\obj\Debug\Biggest_Neighbor.csprojAssemblyReference.cache
+C:\Users\K R V\Desktop\Axeligent\Biggest_Neighbor\Biggest_Neighbor\obj\Debug\Biggest_Neighbor.csproj.CoreCompileInputs.cache
+C:\Users\K R V\Desktop\Axeligent\Biggest_Neighbor\Biggest_Neighbor\obj\Debug\Biggest_Neighbor.exe
+C:\Users\K R V\Desktop\Axeligent\Biggest_Neighbor\Biggest_Neighbor\obj\Debug\Biggest_Neighbor.pdb
