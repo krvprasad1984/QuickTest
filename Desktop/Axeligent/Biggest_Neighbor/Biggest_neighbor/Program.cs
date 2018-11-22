@@ -32,7 +32,7 @@ namespace Biggest_Neighbor
 
         public int Challenge(int[] input)
         {
-            //your code here
+            //My Code
             int[] reps;
             int[] uniq = input.Distinct().ToArray();
             reps = new int[uniq.Length];
